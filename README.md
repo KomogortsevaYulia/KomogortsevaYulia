@@ -1,4 +1,4 @@
-### :woman_technologist: About Me :
+### About Me :
 I am currently a 4th year student majoring in Information Systems and Technologies in the Irkutsk National Research Technical University.
 
 - 📫 How to reach me: [@KomogortsevaYulia](https://t.me/KomogortsevaYulia)
