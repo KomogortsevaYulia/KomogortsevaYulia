@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 ### :woman_technologist: About Me :
 I am currently a 4th year student majoring in Information Systems and Technologies in the Irkutsk National Research Technical University.
 
