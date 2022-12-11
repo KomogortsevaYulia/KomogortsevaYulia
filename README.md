@@ -11,4 +11,4 @@ How to reach me: [@KomogortsevaYulia](https://t.me/KomogortsevaYulia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KomogortsevaYulia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KomogortsevaYulia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KomogortsevaYulia&column=-1&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
