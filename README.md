@@ -1,12 +1,14 @@
-### About Me :
+## About Me :
 
 ### Web developer, full stack
 
-I am finishing my 4th year at the Irkutsk National Research Technical University with a degree in **Information Systems and Technologies**.
+I am a graduate of the Irkutsk National Research Technical University, Institute of Information Technologies and Data Analysis. My specialty is **Information systems and technologies**.
 
-I like **web development** and I want to become successful in this field. I also have leadership skills and hope to use them in my career.
+I like **web development** and I want to become successful in this field.
 
-I have a pet project **"Experience market"** - I am creating a website to accompany the process of increasing the level of competencies in team development through networking.
+Now I work as a full stack developer.
+
+I have a pet project [**Experience market**](https://github.com/KomogortsevaYulia/experience_market) - I am creating a website to accompany the process of increasing the level of competencies in team development through networking.
 
 I really love _hackathons_ for their atmosphere and the opportunity to develop hard and soft skills.
 
@@ -14,7 +16,7 @@ In my free time, I draw, embroider and do art.
 
 How to reach me: [@KomogortsevaYulia](https://t.me/KomogortsevaYulia)
 
----
+
 ### Technology stack
 
 <div>
@@ -31,7 +33,7 @@ How to reach me: [@KomogortsevaYulia](https://t.me/KomogortsevaYulia)
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
 
 
----
+
 
 ### :fire: My Stats :
 
